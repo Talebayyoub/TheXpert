@@ -1,2 +1,2 @@
 # TheXpert
-Emotion detection from voice recording
+Emotion detection from voice recording using VAM database
